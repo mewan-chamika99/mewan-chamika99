@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mewantha abesinghe</h1>
+<h1 align="center">Hi 👋, I'm Mewantha Abesinghe</h1>
 <h3 align="center">A passionate frontend developer & Qa automation Engineer</h3>
 
 - 🔭 I’m currently working on **springboot project**
